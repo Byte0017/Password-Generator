@@ -15,5 +15,6 @@ such as uppercase/lowercase letters, numbers, and symbols, ensuring strong and u
   - Numbers (0-9)
   - Special characters (!@#$%^&*, etc.)
 - Simple and intuitive user interface
+![image](https://github.com/user-attachments/assets/beb96689-4dcb-4c16-b14c-1482d8b833ce)
 
 
